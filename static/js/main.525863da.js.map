@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/main.525863da.js","mappings":"AACAA,IAAIC,IAAI,KAAK,SAACC,EAAKC,GACfA,EAAIC,KAAK,eACb","sources":["index.js"],"sourcesContent":["\r\napp.get('/', (req, res) => {\r\n    res.send('Hello World!')\r\n})\r\n\r\n\r\n"],"names":["app","get","req","res","send"],"sourceRoot":""}
