@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tunequeue-app/static/js/main.203ab693.js",
+    "main.js": "/tunequeue-app/static/js/main.d87555fc.js",
     "index.html": "/tunequeue-app/index.html",
-    "main.203ab693.js.map": "/tunequeue-app/static/js/main.203ab693.js.map"
+    "main.d87555fc.js.map": "/tunequeue-app/static/js/main.d87555fc.js.map"
   },
   "entrypoints": [
-    "static/js/main.203ab693.js"
+    "static/js/main.d87555fc.js"
   ]
 }
